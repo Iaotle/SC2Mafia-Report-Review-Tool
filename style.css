@@ -1,0 +1,27 @@
+notebook > stack {
+    background: #F0F0F0;
+}
+
+#label {
+    background: #303030;
+}
+
+/** box.linked > button.combo {*/
+/*    background: #303030;*/
+/*}*/
+/*notebook * {*/
+/*    background: #000000;*/
+/*}*/
+
+/*
+vbox > label {
+  background-color: #000000;
+}
+button {
+    color: red;
+    background: green;
+}
+notebook > entry {
+  color: #fff0f0;
+  background-color: #ff0000;
+}*/
